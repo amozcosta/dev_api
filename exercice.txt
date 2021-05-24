@@ -1,4 +1,0 @@
---- acrescentar na API de habilidades(modulo habilidades) os métodos PUT, POST, DELETE
-- o metodo POST deverá inserir uma nova habilidade na lista
-- o metodo PUT a partir de um ID (identificar a posição) deverá alterar o nome da habilidade que esta naquela posição
-- o método DELETE deverá deletar uma habilidade que esteja na posição informado na requisição
